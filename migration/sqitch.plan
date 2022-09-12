@@ -1,0 +1,9 @@
+%syntax-version=1.0.0
+%project=ofact
+
+01-init 2022-08-30T06:02:46Z Etudiant O'clock <student@teleporter> # création des tables, domain et index
+3fn 2022-08-30T08:31:17Z Etudiant O'clock <student@teleporter> # modification de prix TTC en tva
+crud_function 2022-08-30T09:58:22Z Etudiant O'clock <student@teleporter> # requêtes pour insérer ou mettre à jour les entités
+invoice_details 2022-08-30T13:52:15Z Etudiant O'clock <student@teleporter> # créations des vues en détail des factures
+invoice_recap 2022-08-30T14:55:41Z Etudiant O'clock <student@teleporter> # vue récapitulative des factures appelée invoice_recap
+sales 2022-08-30T16:23:45Z Etudiant O'clock <student@teleporter> # ajout d'une facontion de calcul de CA
